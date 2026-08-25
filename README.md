@@ -4,6 +4,8 @@
 
 I design and build modern web applications, intelligent digital products, and scalable software solutions — from idea and system design to database, deployment, and production-ready interfaces.
 
+[View Portfolio](https://developer-portfolio-icw5pgjdl-halloobeer.vercel.app)
+
 ---
 
 ## Featured Projects
@@ -85,6 +87,5 @@ I focus on solving real operational problems, keeping interfaces clear, and turn
 ## Contact
 
 **GitHub:** [halloobeer-netizen](https://github.com/halloobeer-netizen)  
-**Email:** halloobeer@gmail.com
-
-Portfolio website coming soon.
+**Email:** halloobeer@gmail.com  
+**Portfolio:** [developer-portfolio](https://developer-portfolio-icw5pgjdl-halloobeer.vercel.app)
