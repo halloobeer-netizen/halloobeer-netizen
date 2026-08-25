@@ -15,7 +15,7 @@ A full-stack customer management platform for internet service providers, combin
 
 **Focus:** Full-stack development · Data management · Interactive mapping · Admin dashboard · Deployment
 
-[View Repository](https://github.com/halloobeer-netizen/Karputindo-Net)
+[View Repository](https://github.com/halloobeer-netizen/karputindo-net)
 
 ### Jagad Stockis
 **Franchise Supply & Stock Management Platform**
@@ -24,7 +24,7 @@ A full-stack platform for product catalog, inventory, ordering, checkout, and ad
 
 **Focus:** Full-stack development · Inventory · Order workflow · Admin dashboard · Database
 
-[View Repository](https://github.com/halloobeer-netizen/Latihan-Jagad-Stokis)
+[View Repository](https://github.com/halloobeer-netizen/jagad-stokis)
 
 ### Peatland Intelligence Platform
 **Environmental Survey, Mapping & Spatial Data Management**
@@ -33,7 +33,7 @@ A digital field-survey and environmental data platform for managing peatland obs
 
 **Focus:** Data platform · Field survey · Mapping · Environmental data · Spatial workflows
 
-[View Repository](https://github.com/halloobeer-netizen/dgeapramudita2026-gambutkalbar)
+[View Repository](https://github.com/halloobeer-netizen/peatland-intelligence-platform)
 
 ---
 
