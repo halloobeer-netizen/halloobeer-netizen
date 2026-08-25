@@ -1,16 +1,90 @@
-## Hi there 👋
+# Deni Setiadi
 
-<!--
-**halloobeer-netizen/halloobeer-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer & AI Solutions Developer
 
-Here are some ideas to get you started:
+I design and build modern web applications, intelligent digital products, and scalable software solutions — from idea and system design to database, deployment, and production-ready interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+### Karputindo.net
+**Customer Data & Mapping Platform**
+
+A full-stack customer management platform for internet service providers, combining customer records, service package management, spreadsheet import, operational dashboards, and location-based customer mapping.
+
+**Focus:** Full-stack development · Data management · Interactive mapping · Admin dashboard · Deployment
+
+[View Repository](https://github.com/halloobeer-netizen/Karputindo-Net)
+
+### Jagad Stockis
+**Franchise Supply & Stock Management Platform**
+
+A full-stack platform for product catalog, inventory, ordering, checkout, and administrative operations, designed to support day-to-day stock and order management workflows.
+
+**Focus:** Full-stack development · Inventory · Order workflow · Admin dashboard · Database
+
+[View Repository](https://github.com/halloobeer-netizen/Latihan-Jagad-Stokis)
+
+### Peatland Intelligence Platform
+**Environmental Survey, Mapping & Spatial Data Management**
+
+A digital field-survey and environmental data platform for managing peatland observations, field measurements, survey progress, coordinates, documentation, and spatial information.
+
+**Focus:** Data platform · Field survey · Mapping · Environmental data · Spatial workflows
+
+[View Repository](https://github.com/halloobeer-netizen/dgeapramudita2026-gambutkalbar)
+
+---
+
+## Engineering Stack
+
+**Frontend**  
+Next.js · React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
+
+**Backend & Data**  
+Node.js · Prisma · PostgreSQL · Firebase · REST API · Excel/CSV processing
+
+**Mapping & Spatial**  
+Leaflet · React Leaflet · QGIS · Spatial data workflows
+
+**Deployment & Workflow**  
+Git · GitHub · Vercel · Netlify
+
+**AI & Product Development**  
+AI-assisted engineering · Rapid prototyping · Product design · Automation · Intelligent application workflows
+
+---
+
+## What I Build
+
+- Full-stack web applications
+- Business dashboards and internal tools
+- Customer and operational data platforms
+- Mapping and location-based applications
+- Inventory and order management systems
+- AI-assisted digital products
+- Data processing and workflow automation
+
+---
+
+## Current Focus
+
+Building production-ready software products with clean interfaces, reliable data flows, scalable architecture, and practical AI integration.
+
+---
+
+## Development Approach
+
+**Plan → Design → Build → Integrate → Test → Deploy → Improve**
+
+I focus on solving real operational problems, keeping interfaces clear, and turning requirements into working digital products.
+
+---
+
+## Contact
+
+**GitHub:** [halloobeer-netizen](https://github.com/halloobeer-netizen)  
+**Email:** halloobeer@gmail.com
+
+Portfolio website coming soon.
