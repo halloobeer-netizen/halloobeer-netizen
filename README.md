@@ -4,7 +4,7 @@
 
 I design and build modern web applications, intelligent digital products, and scalable software solutions — from idea and system design to database, deployment, and production-ready interfaces.
 
-[View Portfolio](https://jagavre-labs.vercel.app/) · [Portfolio Repository](https://github.com/halloobeer-netizen/developer-portfolio)
+[View Portfolio](https://jagavre-labs.vercel.app/) ·
 
 ---
 
