@@ -88,5 +88,4 @@ I focus on solving real operational problems, keeping interfaces clear, and turn
 
 **GitHub:** [halloobeer-netizen](https://github.com/halloobeer-netizen)  
 **Email:** halloobeer@gmail.com  
-**Portfolio:** [jagavre-labs.vercel.app](https://jagavre-labs.vercel.app/)  
-**Portfolio Repository:** [developer-portfolio](https://github.com/halloobeer-netizen/developer-portfolio)
+**Portfolio:** [jagavre-labs.vercel.app](https://jagavre-labs.vercel.app/)
