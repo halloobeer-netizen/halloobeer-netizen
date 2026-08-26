@@ -4,7 +4,7 @@
 
 I design and build modern web applications, intelligent digital products, and scalable software solutions — from idea and system design to database, deployment, and production-ready interfaces.
 
-[View Portfolio](https://portfolio-static-final.vercel.app/) · [Portfolio Repository](https://github.com/halloobeer-netizen/developer-portfolio)
+[View Portfolio](https://jagavre-labs.vercel.app/) · [Portfolio Repository](https://github.com/halloobeer-netizen/developer-portfolio)
 
 ---
 
@@ -88,5 +88,5 @@ I focus on solving real operational problems, keeping interfaces clear, and turn
 
 **GitHub:** [halloobeer-netizen](https://github.com/halloobeer-netizen)  
 **Email:** halloobeer@gmail.com  
-**Portfolio:** [portfolio-static-final.vercel.app](https://portfolio-static-final.vercel.app/)  
+**Portfolio:** [jagavre-labs.vercel.app](https://jagavre-labs.vercel.app/)  
 **Portfolio Repository:** [developer-portfolio](https://github.com/halloobeer-netizen/developer-portfolio)
